@@ -1,0 +1,12 @@
+{
+  "development": {
+    "apiUrl": "https://codewithjose.herokuapp.com",
+    "contentApiKey": "8d647473cf5973ad9aef0cc249",
+    "version": "v3"
+  },
+  "production": {
+    "apiUrl": "https://codewithjose.herokuapp.com",
+    "contentApiKey": "8d647473cf5973ad9aef0cc249",
+    "version": "v3"
+  }
+}
